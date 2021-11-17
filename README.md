@@ -18,21 +18,17 @@ This is my first time building a website independently after watching a course, 
 
 Users should be able to:
 
-- See hover states for interactive elements
+- See active states for interactive elements
 
 ### Screenshot
 
-![image](https://github.com/ich-bin-boi-de-cambridge/Frontend-Mentor-Order-Summary-Card/blob/main/Frontend%20Mentor%20Order%20summary%20card.png)
+![image](https://github.com/ich-bin-boi-de-cambridge/Frontend-Mentor-3-column-preview-card-component/blob/main/Frontend%20Mentor%20-%203-column%20preview%20card%20component.png)
 
-
-## My process
-Start with HTML, and then CSS. Struggled a lot because I am still not used to the codes yet.
-
+## My Process
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
 - [Styled Components](https://styled-components.com/) - For styles
 
@@ -40,12 +36,11 @@ Start with HTML, and then CSS. Struggled a lot because I am still not used to th
 ### What I learnt
 
 ```css
-body {
-background-image : url(); 
-background-repeat: no-repeat; 
-}
+container {
+  box-shadow: inset 0rem 0rem 0rem 0.2rem #fff;
+} 
 ```
 
 ### Continued development
-I think I will focus on CSS and make more decent-looking websites. I hope I can masater HTML CSS and JavaScript one day soon. 
+I need to learn more about background. 
 
